@@ -7,6 +7,8 @@
 
 - 💻 I’m currently learning **Dart and Flutter**
 
+- I have basic knowledge in SwiftUI with some apps published in Apple App Store.
+
 - ✉️ How to reach me **eduardomf10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
