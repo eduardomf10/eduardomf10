@@ -2,9 +2,11 @@
 <h1 align="center">Welcome to Eduardo Ferreira's world 🌎</h1>
 <h4 align="center">- A brazilian problem-solver.</h4>
 
-- 💻 I’m currently learning **Dart and Flutter**
+- 💻 I’m currently learning **SwiftUI**
 
 - I have basic knowledge in SwiftUI with some apps published in Apple App Store.
+
+- Basic knowledge of **Flutter**
 
 - ✉️ How to reach me **eduardomf10@hotmail.com**
 
