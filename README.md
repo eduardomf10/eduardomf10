@@ -3,7 +3,7 @@
 <h4 align="center">- A brazilian problem-solver.</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardomf10&label=Profile%20views&color=0e75b6&style=flat" alt="eduardomf10" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=eduardomf10&label=Profile%20views&color=0e75b6&style=flat](https://www.hackingwithswift.com/uploads/swift-evolution-7.jpg)" alt="eduardomf10" /> </p>
 
 - 💻 I’m currently learning **Dart and Flutter**
 
