@@ -2,11 +2,11 @@
 <h1 align="center">Welcome to Eduardo Ferreira's world 🌎</h1>
 <h4 align="center">- A brazilian problem-solver.</h4>
 
-- 💻 I’m currently learning **SwiftUI**
+- 💻 I’m currently working as a freelancer using **SwiftUI**
 
-- I have basic knowledge in SwiftUI with some apps published in Apple App Store.
+- I have good knowledge in SwiftUI, UIKit and UI/UX with some apps published in Apple App Store.
 
-- Basic knowledge of **Flutter**
+- Basic knowledge of **Flutter** and still studying about this framework.
 
 - ✉️ How to reach me **eduardomf10@hotmail.com**
 
