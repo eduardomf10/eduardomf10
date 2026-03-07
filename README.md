@@ -1,16 +1,96 @@
-<h1 align="center">Eduardo Ferreira</h1>
-<h4 align="center">Backend Developer | Python | Automation | AI Tools</h4>
-<h5 align="center">Backend developer focused on building automation tools and AI-powered workflows.</h5>
+<h1>Eduardo Ferreira</h1>
 
-Backend developer currently focused on building automation tools and backend systems using Python and FastAPI.
+<p>
+Backend Developer focused on building automation tools and backend systems with <strong>Python</strong>.
+</p>
 
-Previously built and published mobile applications on the Apple App Store with over 10,000 combined downloads.
+<p>
+Previously built and published mobile applications on the Apple App Store with over <strong>10,000 combined downloads</strong>.
+Currently developing backend projects focused on workflow automation, APIs and AI-assisted tools.
+</p>
 
-Currently developing real-world backend projects focused on workflow automation and AI-assisted systems.
+<hr>
 
-How to reach me
-**eduardomf10@hotmail.com**
+<h2>About Me</h2>
 
+<p>
+I am currently transitioning from mobile development into backend engineering with Python.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p>
+My focus is on building real-world systems such as:
+</p>
+
+<ul>
+<li>automation tools</li>
+<li>backend APIs</li>
+<li>AI-assisted workflows</li>
+<li>internal tools for small businesses</li>
+</ul>
+
+<p>
+I enjoy solving practical problems and turning messy real-world inputs into structured, useful systems.
+</p>
+
+<hr>
+
+<h2>Current Tech Focus</h2>
+
+<ul>
+<li>Python</li>
+<li>FastAPI</li>
+<li>SQLAlchemy</li>
+<li>SQLite / PostgreSQL</li>
+<li>REST APIs</li>
+<li>Git</li>
+<li>AI API integrations</li>
+</ul>
+
+<hr>
+
+<h2>Featured Projects</h2>
+
+<h3>Tattoo Client Intake Assistant</h3>
+
+<p>
+Backend API built with Python and FastAPI that analyzes tattoo client requests and converts them into structured information for tattoo artists.
+</p>
+
+<p><strong>Features:</strong></p>
+
+<ul>
+<li>message analysis</li>
+<li>structured tattoo request data</li>
+<li>lead storage in database</li>
+<li>lead status management</li>
+<li>REST API with FastAPI</li>
+</ul>
+
+<p>
+Repository:<br>
+<a href="https://github.com/eduardomf10/tattoo-client-intake-assistant">
+https://github.com/eduardomf10/tattoo-client-intake-assistant
+</a>
+</p>
+
+<hr>
+
+<h2>Previous Experience</h2>
+
+<p>Mobile development using:</p>
+
+<ul>
+<li>SwiftUI</li>
+<li>UIKit</li>
+<li>Flutter (basic knowledge)</li>
+</ul>
+
+<p>
+Published multiple apps on the Apple App Store.
+</p>
+
+<hr>
+
+<h2>Contact</h2>
+
+<p>Email: <a href="mailto:eduardomf10@hotmail.com">eduardomf10@hotmail.com</a></p>
