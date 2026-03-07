@@ -28,10 +28,6 @@ My focus is on building real-world systems such as:
 <li>internal tools for small businesses</li>
 </ul>
 
-<p>
-I enjoy solving practical problems and turning messy real-world inputs into structured, useful systems.
-</p>
-
 <hr>
 
 <h2>Current Tech Focus</h2>
@@ -82,7 +78,7 @@ https://github.com/eduardomf10/tattoo-client-intake-assistant
 <ul>
 <li>SwiftUI</li>
 <li>UIKit</li>
-<li>Flutter (basic knowledge)</li>
+<li>Flutter</li>
 </ul>
 
 <p>
