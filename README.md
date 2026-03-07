@@ -1,13 +1,15 @@
-<h1 align="center">Welcome to Eduardo Ferreira's world 🌎</h1>
-<h4 align="center">- A brazilian problem-solver.</h4>
+<h1 align="center">Eduardo Ferreira</h1>
+<h4 align="center">Backend Developer | Python | Automation | AI Tools</h4>
+<h5 align="center">Backend developer focused on building automation tools and AI-powered workflows.</h5>
 
-- 💻 I’m currently working as a freelancer using **SwiftUI**
+Backend developer currently focused on building automation tools and backend systems using Python and FastAPI.
 
-- I have good knowledge in SwiftUI, UIKit and UI/UX with some apps published in Apple App Store.
+Previously built and published mobile applications on the Apple App Store with over 10,000 combined downloads.
 
-- Basic knowledge of **Flutter** and still studying about this framework.
+Currently developing real-world backend projects focused on workflow automation and AI-assisted systems.
 
-- ✉️ How to reach me **eduardomf10@hotmail.com**
+How to reach me
+**eduardomf10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
