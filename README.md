@@ -2,7 +2,7 @@
 
 Backend Developer focused on building automation tools and backend systems with Python.
 
-Previously built and published mobile applications on the Apple App Store with over **10,000 combined downloads**.  
+Previously built and published mobile applications on the Apple App Store with over **5,000 combined downloads**.  
 Currently developing backend projects focused on **workflow automation, APIs, and AI-assisted tools**.
 
 ---
